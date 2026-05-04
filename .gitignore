@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Playwright artifacts
+playwright-report/
+test-results/
+
+# Logs
+*.log
+test-run.log
+test-results.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage
+coverage/
+
+# macOS
+.DS_Store
+.agents
