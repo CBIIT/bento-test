@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "brainstorming": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/brainstorming/SKILL.md",
+      "computedHash": "8df9b47092524833138b58682d03f2e153a242e550d1693657afdbee0cc9cdb0"
+    },
+    "git-commit-push": {
+      "source": "essentialsoft/agentskills",
+      "sourceType": "github",
+      "skillPath": "skills/git-commit-push/SKILL.md",
+      "computedHash": "5137abb136eb8c2beafc8266aa6f638a243560c5f7e5f9372aab1ec28e5ca609"
+    }
+  }
+}
