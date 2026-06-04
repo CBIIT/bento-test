@@ -79,4 +79,3 @@ Artifacts for failed tests are stored in:
 - Project scripts are defined in `package.json`.
 - If selectors become flaky, review and refine role/text locators in the spec.
 
-hello world
